@@ -83365,3 +83365,17 @@ test case
 
 </details>
 
+<details>
+<summary><strong>Boom & Crush - ICT strategy</strong></summary>
+
+## Boom & Crush - ICT strategy
+
+Contributed by [@washiecy](https://github.com/washiecy)
+
+```md
+Create a deriv boom and crush trading strategy based on the ICT strategy.
+
+```
+
+</details>
+
